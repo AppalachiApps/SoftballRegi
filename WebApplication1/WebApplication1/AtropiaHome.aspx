@@ -2,6 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <asp:Image ID="Image1" runat="server" Height="197px" Width="771px" />
+    <div style="height: 395px; margin-bottom: 279px">
+        <img alt="" src="SiteImages/Softball.jpg" style="width: 925px; height: 346px" /></div>
 
     </asp:Content>
