@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1
+namespace WebApplication2.Account
 {
 
 
-    public partial class _Default
+    public partial class Lockout
     {
     }
 }
