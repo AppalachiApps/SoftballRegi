@@ -13,5 +13,15 @@ namespace WebApplication1
         {
 
         }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            if(TextBox1.Text != null && TextBox2.Text != null && TextBox5.Text != null && TextBox6.Text != null)
+            {
+                SqlDataSource1.Insert();
+               
+            }
+        }
+        
     }
 }
